@@ -47,7 +47,7 @@ while True:
     print("\n=============EXTRATO==============")
     print(extrato or "Não foram realizadas movimentações.")
     print(f"\nSaldo: R$ {saldo:.2f}")
-    print("================================")
+    print("=================================")
 
   if opcao == "q":
     break
