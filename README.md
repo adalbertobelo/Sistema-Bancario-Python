@@ -13,7 +13,7 @@
   <ul>
     <li>Depósito: Realize depósitos em sua conta com segurança e praticidade.</li>
     <li>Saque: Efetue saques de forma rápida e eficiente.</li>
-    <li>Extrato: Acompanhe suas transações com um extrato detalhado.</li>
+    <li>Extrato: Acompanhe suas transações com um extrato.</li>
   </ul>
 
 
