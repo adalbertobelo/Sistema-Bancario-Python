@@ -16,15 +16,6 @@
     <li>Extrato: Acompanhe suas transações com um extrato detalhado.</li>
   </ul>
 
-  <h2>Objetivos</h2>
-
-  <ul>
-    <li>Implementar os principais serviços bancários em Python.</li>
-    <li>Desenvolver habilidades de programação com foco em aplicações financeiras.</li>
-    <li>Aprimorar o raciocínio lógico e a resolução de problemas.</li>
-  </ul>
-
-
 
 </body>
 </html>
